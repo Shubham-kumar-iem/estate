@@ -21,7 +21,7 @@ const Hero = () => {
             >
               Discover <br />
               Most Suitable
-              <br /> Property
+              <br /> Property With me
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
