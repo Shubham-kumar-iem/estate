@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-dl33fbge1v4bf0xj.us.auth0.com"
       clientId="sedxHimtFQMiS8cvWBGyDRI5GuXrvUCq"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173"
+        redirect_uri: "https://gharlelo.vercel.app"
       }}
       audience="http://localhost:8000"
       scope="openid profile email"
