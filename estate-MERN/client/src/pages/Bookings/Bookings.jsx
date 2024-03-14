@@ -29,7 +29,7 @@ const Bookings = () => {
           height="80"
           width="80"
           radius={1}
-          color="#4066ff"
+          color="#4061ff"
           aria-label="puff-loading"
         />
       </div>
